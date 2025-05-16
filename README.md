@@ -7,4 +7,4 @@ With hands-on experience in upstream data collection from real-world renewable e
   
   c) Power BI (dashboarding, storytelling)
   
-I'm currently working on portfolio projects to showcase my ability to apply data skills to real-world problems, with the goal of moving into a Junior Data Analyst role.
+I'm currently working on portfolio projects to showcase my ability to apply data skills to real-world problems, with the goal of moving into a Data Analyst role.
